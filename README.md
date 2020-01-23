@@ -5,6 +5,8 @@
 
 Synesthesia creates complex visual representations of audio, using C++.
 
+![Logo](ear.png)
+
 ## Plan
 
 There are *three main components* to this project:
