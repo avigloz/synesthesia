@@ -1,19 +1,23 @@
 # synesthesia
 ![GitHub](https://img.shields.io/github/license/avigloz/synesthesia)
+![GitHub top language](https://img.shields.io/github/languages/top/avigloz/synesthesia)
+![GitHub last commit](https://img.shields.io/github/last-commit/avigloz/synesthesia)
 
-Synesthesia creates complex visual representations of audio.
+Synesthesia creates complex visual representations of audio, using C++.
 
 ## Plan
 
 There are *three main components* to this project:
 
-- Decoder :large_blue_circle:
-- Interface between decoder and visualizer :red_circle:
-- Visualizer :red_circle:
+- :large_blue_circle: Decoder
+- :red_circle: Interface between decoder and visualizer
+- :red_circle: Visualizer
+
+(white:complete, blue:in-progress, red:to-do)
 
 ## Decoder 
 
-Currently, the decoder is/will be designed to support the following audio file formats:
+Currently, the decoder is/will be designed *from scratch* to support the following audio file formats:
 
 - `.flac`
 
@@ -27,7 +31,7 @@ The nature of the algorithm is mostly currently unknown; I am thinking about tha
 
 Current possibilities include:
 
-- Fractals (which is likely sthe most promising)
+- Fractals (which is likely the most promising)
 - Lines of varying colors, intensity, etc.
 - Shapes
 - Collage
