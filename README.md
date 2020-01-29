@@ -21,9 +21,9 @@ There are *three main components* to this project:
 
 Currently, the decoder is/will be designed *from scratch* to support the following audio file formats:
 
-- `.flac`
+- `.wav`
 
-Support for `.mp3, .mp4, .m4a, & .3gp` will most likely be added in the future. As of right now, to use other audio file formats, simply convert them to `.flac`.
+Support for `.flac, .mp3, .mp4, .m4a, & .3gp, etc.` will most likely be added in the future. As of right now, to use other audio file formats, simply convert them to uncompressed `.wav`.
 
 ## Visualizer
 
